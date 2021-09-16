@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Nivel 1",
+    "cost": "$4,000 pesos / 400 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L1.png",
+    "items": [
+      {
+        "name": "Bocina Mini Bluetooth",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_1.png",
+        "brand": "Select Sound"
+      },
+      {
+        "name": "Plancha True Glide Colors",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_2.png",
+        "brand": "Black & Decker"
+      },
+      {
+        "name": "Juego de Cuchillos 9 piezas",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_3.png",
+        "brand": "Tramontina"
+      },
+      {
+        "name": "Dos botellas de vino tinto",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_4.png",
+        "brand": "Vino importado"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 2",
+    "cost": "$8,000 pesos / 800 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L2.png",
+    "items": [
+      {
+        "name": "Juego de sartenes",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_5.png",
+        "brand": "Specialty 3 piezas T-fal"
+      },
+      {
+        "name": "Vajilla de porcelana 12 piezas",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_6.png",
+        "brand": "Crown Baccara"
+      },
+      {
+        "name": "Juego de fondue 10 piezas",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_7.png",
+        "brand": "PH 1888"
+      },
+      {
+        "name": "Aspiradora manual de 120 volts",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_8.png",
+        "brand": "Koblenz"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 3",
+    "cost": "$15,000 pesos / 1,500 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L3.png",
+    "items": [
+      {
+        "name": "Bote de basura con sensor",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_9.png",
+        "brand": "EKO Mirage X"
+      },
+      {
+        "name": "Vajilla de porcelana 36 piezas",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_10.png",
+        "brand": "PH 1888"
+      },
+      {
+        "name": "Set de 6 toallas",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_11.png",
+        "brand": "Chester & Peck"
+      },
+      {
+        "name": "Freidora de aire digital",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_12.png",
+        "brand": "Oster"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 4",
+    "cost": "$25,000 pesos / 2,500 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L4.png",
+    "items": [
+      {
+        "name": "Pulverizador de alimentos",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_13.png",
+        "brand": "Nutribullet"
+      },
+      {
+        "name": "Set de Cocina Bremen 38 piezas",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_14.png",
+        "brand": "Tramontina"
+      },
+      {
+        "name": "Freidora de aire",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_15.png",
+        "brand": "T-fal"
+      },
+      {
+        "name": "Juego de cubiertos Nova 36 piezas",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_16.png",
+        "brand": "Zwilling J. A. Henckels"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 5",
+    "cost": "$40,000 pesos / 4,000 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L5.png",
+    "items": [
+      {
+        "name": "Cafetera Vertuo",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_17.png",
+        "brand": "Nespresso"
+      },
+      {
+        "name": "Kit de Cocina Allegra 40 piezas",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_18.png",
+        "brand": "Tramontina"
+      },
+      {
+        "name": "Frigobar",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_19.png",
+        "brand": "Mabe"
+      },
+      {
+        "name": "Horno de microondas de 1.4 pies cúbicos",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_20.png",
+        "brand": "Teka"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 6",
+    "cost": "$60,000 pesos / 6,000 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L6.png",
+    "items": [
+      {
+        "name": "Aspiradora Inalámbrica Nova",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_21.png",
+        "brand": "Koblenz"
+      },
+      {
+        "name": "Frigobar con capacidad de 4 pies cúbicos",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_22.png",
+        "brand": "Teka"
+      },
+      {
+        "name": "Espressería manual",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_23.png",
+        "brand": "Krups"
+      },
+      {
+        "name": "Horno tostador con freidora de aire",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_24.png",
+        "brand": "Cuisinart"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 7",
+    "cost": "$90,000 pesos / 9,000 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L7.png",
+    "items": [
+      {
+        "name": "Pantalla FHD Smart TV 32”",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_25.png",
+        "brand": "Sony"
+      },
+      {
+        "name": "Kick Scooter eléctrico E10 plegable para niños",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_26.png",
+        "brand": "Segway"
+      },
+      {
+        "name": "Bocinas Sound Sticks 4",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_27.png",
+        "brand": "Harman Kardon"
+      },
+      {
+        "name": "Reloj Venu Sq Music Edition multideportivo unisex",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_28.png",
+        "brand": "Garmin"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 8",
+    "cost": "$120,000 pesos / 12,000 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L8.png",
+    "items": [
+      {
+        "name": "Pantalla FHD Smart TV 43”",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_29.png",
+        "brand": "Sony"
+      },
+      {
+        "name": "Tab P11",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_30.png",
+        "brand": "Lenovo"
+      },
+      {
+        "name": "Laptop IP3 Ryzen 3 AMD",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_31.png",
+        "brand": "Lenovo"
+      },
+      {
+        "name": "Bicicleta spinning de banda con computador",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_32.png",
+        "brand": "Gym Shop"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 9",
+    "cost": "$250,000 pesos / 25,000 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L9.png",
+    "items": [
+      {
+        "name": "Pantalla 4K SmartTV 65”",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_33.png",
+        "brand": "Sony"
+      },
+      {
+        "name": "Lámpara de escritorio",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_34.png",
+        "brand": "Dyson"
+      },
+      {
+        "name": "Laptop IP3 Intel Ci5",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_35.png",
+        "brand": "Lenovo"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 10",
+    "cost": "$500,000 pesos / 50,000 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L10.png",
+    "items": [
+      {
+        "name": "Pantalla 4K Smart TV 75”",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_36.png",
+        "brand": "Sony"
+      },
+      {
+        "name": "Bicicleta eléctrica con motor de 250 W",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_37.png",
+        "brand": "Spinciti"
+      }
+    ]
+  },
+  {
+    "name": "Nivel 11",
+    "cost": "$1,000,000 pesos / 100,000 monedas",
+    "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_L11.png",
+    "items": [
+      {
+        "name": "Certificado de regalo por $65,000",
+        "image": "https://botlers-enterprise.s3.us-west-2.amazonaws.com/ANPH_38.png",
+        "brand": "El Palacio de Hierro"
+      }
+    ]
+  }
+]
